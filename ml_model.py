@@ -10,3 +10,4 @@ def model3();
     print("Model3")
 
 print("Model2 is working fine")
+print("Something new")
